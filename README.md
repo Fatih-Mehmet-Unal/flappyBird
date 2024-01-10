@@ -33,7 +33,7 @@ The score and the best score are shown on the screen.
 
 Points to Note:
 
-Executable is named flappyBird and can be found in executable folder.
+Executable is named flappyBird and can be found in executable folder in order to run the executable all the files and the folders inside the zip file must be extracted.
 Ensure that the dependencies for compiling and running the project are correctly installed in Qt Creator.
 The project files should be added and organized correctly.
 Visual files required for the game to run smoothly should be in the appropriate locations.
